@@ -103,17 +103,24 @@
 
 ---
 
-## Template para Nova Frase
+### What does "come back soon" mean?
+> **Tradução:** O que significa "come back soon" mean?
 
-> Copie e cole o bloco abaixo para adicionar uma nova frase.
+**Uso:** Perguntar o signficado de uma frase
+
+**Exemplos:**
+- *Exemplo 1*
+- *Exemplo 2*
+
+**Link:** [Watch on YouTube](URL_DO_VIDEO)
 
 ```
 ---
 
-### N. FRASE EM INGLÊS
-> **Tradução:** TRADUÇÃO
+### What does "come back soon" mean?
+> **Tradução:** O que significa "come back soon" mean?
 
-**Uso:** EXPLICAÇÃO DO USO / CONTEXTO
+**Uso:** Perguntar o signficado de uma frase
 
 **Exemplos:**
 - *Exemplo 1*
